@@ -1,0 +1,5 @@
+# CODEOWNERS file
+# Remplacez @hawaniabuilder par votre nom d'utilisateur GitHub si différent.
+# Ce fichier indique qui est responsable des modifications / revues et reçoit les alerts de sécurité.
+# Format: <pattern> <owner>
+* @hawaniabuilder
